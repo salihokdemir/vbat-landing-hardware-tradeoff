@@ -36,6 +36,26 @@ Install the Python dependencies used for the analysis environment. A minimal plo
 pip install pandas matplotlib
 python analysis/reproduce_summary_figures.py
 ```
+## Naming note: Main4 and Main5
+
+Some output folders and CSV files use the internal names `main4` and `main5`. These names come from the project development history and are kept in the data files for traceability.
+
+In the final methodology, they correspond to the following stages:
+
+* **Main4** means **MPC hardware search**.
+  This stage runs closed-loop MPC feasibility tests and searches for low-authority hardware candidates using recursive `hu/hf` contraction, subset search, and permutation-based reclaim.
+
+* **Main5** means **path-pool OCP refinement**.
+  This stage takes selected MPC hardware-search candidates, replays or uses the saved MPC path, and performs local OCP refinement around that path.
+
+Therefore, when reading the output files:
+
+```text
+main4_*  -> MPC hardware-search outputs
+main5_*  -> path-pool OCP refinement outputs
+```
+
+The final report avoids using `Main4` and `Main5` as primary terminology, but the repository keeps these names in filenames to match the original generated outputs.
 
 The full MPC and OCP runs require the project environment in `src/vbat_landing_mpc_ocp/requirements.txt`.
 

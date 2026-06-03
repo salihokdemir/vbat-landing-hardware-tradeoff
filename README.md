@@ -73,6 +73,6 @@ Example:
 
 ```text
 Code and processed data supporting the final figures are available at:
-https://github.com/<username>/vbat-landing-hardware-tradeoff
-Release: v1.0-final, commit: <commit-hash>
+(https://github.com/salihokdemir/vbat-landing-hardware-tradeoff
+Release: final)
 ```

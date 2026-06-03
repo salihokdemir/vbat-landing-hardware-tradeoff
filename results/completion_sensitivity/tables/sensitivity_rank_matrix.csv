@@ -1,0 +1,15 @@
+check,5 Hz,10 Hz,15 Hz,20 Hz,40 Hz,80 Hz
+Weight method: scenario_median_k,6.0,5.0,3.0,2.0,4.0,1.0
+Weight method: scenario_mean_k,6.0,4.0,2.0,3.0,5.0,1.0
+Weight method: scenario_trimmed_k,6.0,4.0,2.0,3.0,5.0,1.0
+Weight method: all_permutation_median_k,6.0,5.0,3.0,2.0,4.0,1.0
+Weight method: all_permutation_mean_k,6.0,4.0,2.0,3.0,5.0,1.0
+Weight method: equal_weights,6.0,4.0,2.0,3.0,5.0,1.0
+Aggregation: geomean,6.0,5.0,3.0,2.0,4.0,1.0
+Aggregation: median,6.0,3.0,2.0,4.0,5.0,1.0
+Aggregation: arithmetic_mean,6.0,4.0,3.0,2.0,5.0,1.0
+Aggregation: trimmed_log_geomean,6.0,5.0,4.0,2.0,3.0,1.0
+Aggregation: avg_rank,6.0,4.0,3.0,2.0,5.0,1.0
+Coupling: lambda_0,6.0,5.0,3.0,2.0,4.0,1.0
+Coupling: lambda_0.5,6.0,5.0,3.0,2.0,4.0,1.0
+Coupling: lambda_1,6.0,5.0,3.0,2.0,4.0,1.0

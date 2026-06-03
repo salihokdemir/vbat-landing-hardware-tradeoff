@@ -1,0 +1,49 @@
+completion_variant,stage,frequency_hz,member,row_count
+c0x09,Main4 raw,5,runs/main4_05hz_s00-s19_retryall_savedpath/main4_shortlist.csv,140
+c0x09,Main5 raw summary,5,runs/main5_ocp_05hz_s00-s19_retryall_savedpath/main5_ocp_refine_summary.csv,20
+c0x09,Main5 raw permutations,5,runs/main5_ocp_05hz_s00-s19_retryall_savedpath/main5_ocp_refine_permutations.csv,480
+c0x09,Main4 raw,10,runs/main4_10hz_s00-s19_retryall_savedpath/main4_shortlist.csv,140
+c0x09,Main5 raw summary,10,runs/main5_ocp_10hz_s00-s19_retryall_savedpath/main5_ocp_refine_summary.csv,20
+c0x09,Main5 raw permutations,10,runs/main5_ocp_10hz_s00-s19_retryall_savedpath/main5_ocp_refine_permutations.csv,480
+c0x09,Main4 raw,15,runs/main4_15hz_s00-s19_retryall_savedpath/main4_shortlist.csv,140
+c0x09,Main5 raw summary,15,runs/main5_ocp_15hz_s00-s19_retryall_savedpath/main5_ocp_refine_summary.csv,20
+c0x09,Main5 raw permutations,15,runs/main5_ocp_15hz_s00-s19_retryall_savedpath/main5_ocp_refine_permutations.csv,480
+c0x09,Main4 raw,20,runs/main4_20hz_s00-s19_retryall_savedpath/main4_shortlist.csv,140
+c0x09,Main5 raw summary,20,runs/main5_ocp_20hz_s00-s19_retryall_savedpath/main5_ocp_refine_summary.csv,20
+c0x09,Main5 raw permutations,20,runs/main5_ocp_20hz_s00-s19_retryall_savedpath/main5_ocp_refine_permutations.csv,480
+c0x09,Main4 raw,40,runs/main4_40hz_s00-s19_retryall_savedpath/main4_shortlist.csv,126
+c0x09,Main5 raw summary,40,runs/main5_ocp_40hz_s00-s19_retryall_savedpath/main5_ocp_refine_summary.csv,18
+c0x09,Main5 raw permutations,40,runs/main5_ocp_40hz_s00-s19_retryall_savedpath/main5_ocp_refine_permutations.csv,432
+c0x09,Main4 raw,80,runs/main4_80hz_s00-s19_retryall_savedpath/main4_shortlist.csv,133
+c0x09,Main5 raw summary,80,runs/main5_ocp_80hz_s00-s19_retryall_savedpath/main5_ocp_refine_summary.csv,19
+c0x09,Main5 raw permutations,80,runs/main5_ocp_80hz_s00-s19_retryall_savedpath/main5_ocp_refine_permutations.csv,456
+c0x09,Main4 completion c0x09,mixed,runs/c0_rescue/main4_c0x09_40hz_s3_s19/main4_shortlist.csv,14
+c0x09,Main4 completion c0x09,mixed,runs/c0_rescue/main4_c0x09_80hz_s1/main4_shortlist.csv,7
+c0x09,Main5 completion summary c0x09,mixed,runs/c0_rescue_main5/main5_c0x09_40hz_s3_s19/main5_ocp_refine_summary.csv,2
+c0x09,Main5 completion summary c0x09,mixed,runs/c0_rescue_main5/main5_c0x09_80hz_s1/main5_ocp_refine_summary.csv,1
+c0x09,Main5 completion permutations c0x09,mixed,runs/c0_rescue_main5/main5_c0x09_40hz_s3_s19/main5_ocp_refine_permutations.csv,48
+c0x09,Main5 completion permutations c0x09,mixed,runs/c0_rescue_main5/main5_c0x09_80hz_s1/main5_ocp_refine_permutations.csv,24
+c0x11,Main4 raw,5,runs/main4_05hz_s00-s19_retryall_savedpath/main4_shortlist.csv,140
+c0x11,Main5 raw summary,5,runs/main5_ocp_05hz_s00-s19_retryall_savedpath/main5_ocp_refine_summary.csv,20
+c0x11,Main5 raw permutations,5,runs/main5_ocp_05hz_s00-s19_retryall_savedpath/main5_ocp_refine_permutations.csv,480
+c0x11,Main4 raw,10,runs/main4_10hz_s00-s19_retryall_savedpath/main4_shortlist.csv,140
+c0x11,Main5 raw summary,10,runs/main5_ocp_10hz_s00-s19_retryall_savedpath/main5_ocp_refine_summary.csv,20
+c0x11,Main5 raw permutations,10,runs/main5_ocp_10hz_s00-s19_retryall_savedpath/main5_ocp_refine_permutations.csv,480
+c0x11,Main4 raw,15,runs/main4_15hz_s00-s19_retryall_savedpath/main4_shortlist.csv,140
+c0x11,Main5 raw summary,15,runs/main5_ocp_15hz_s00-s19_retryall_savedpath/main5_ocp_refine_summary.csv,20
+c0x11,Main5 raw permutations,15,runs/main5_ocp_15hz_s00-s19_retryall_savedpath/main5_ocp_refine_permutations.csv,480
+c0x11,Main4 raw,20,runs/main4_20hz_s00-s19_retryall_savedpath/main4_shortlist.csv,140
+c0x11,Main5 raw summary,20,runs/main5_ocp_20hz_s00-s19_retryall_savedpath/main5_ocp_refine_summary.csv,20
+c0x11,Main5 raw permutations,20,runs/main5_ocp_20hz_s00-s19_retryall_savedpath/main5_ocp_refine_permutations.csv,480
+c0x11,Main4 raw,40,runs/main4_40hz_s00-s19_retryall_savedpath/main4_shortlist.csv,126
+c0x11,Main5 raw summary,40,runs/main5_ocp_40hz_s00-s19_retryall_savedpath/main5_ocp_refine_summary.csv,18
+c0x11,Main5 raw permutations,40,runs/main5_ocp_40hz_s00-s19_retryall_savedpath/main5_ocp_refine_permutations.csv,432
+c0x11,Main4 raw,80,runs/main4_80hz_s00-s19_retryall_savedpath/main4_shortlist.csv,133
+c0x11,Main5 raw summary,80,runs/main5_ocp_80hz_s00-s19_retryall_savedpath/main5_ocp_refine_summary.csv,19
+c0x11,Main5 raw permutations,80,runs/main5_ocp_80hz_s00-s19_retryall_savedpath/main5_ocp_refine_permutations.csv,456
+c0x11,Main4 completion c0x11,mixed,runs/c0_rescue/main4_c0x11_40hz_s3_s19/main4_shortlist.csv,14
+c0x11,Main4 completion c0x11,mixed,runs/c0_rescue/main4_c0x11_80hz_s1/main4_shortlist.csv,7
+c0x11,Main5 completion summary c0x11,mixed,runs/c0_rescue_main5/main5_c0x11_40hz_s3_s19/main5_ocp_refine_summary.csv,2
+c0x11,Main5 completion summary c0x11,mixed,runs/c0_rescue_main5/main5_c0x11_80hz_s1/main5_ocp_refine_summary.csv,1
+c0x11,Main5 completion permutations c0x11,mixed,runs/c0_rescue_main5/main5_c0x11_40hz_s3_s19/main5_ocp_refine_permutations.csv,48
+c0x11,Main5 completion permutations c0x11,mixed,runs/c0_rescue_main5/main5_c0x11_80hz_s1/main5_ocp_refine_permutations.csv,24

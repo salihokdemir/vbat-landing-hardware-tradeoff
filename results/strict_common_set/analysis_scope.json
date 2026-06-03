@@ -1,0 +1,63 @@
+{
+  "comparison_frequencies": [
+    5,
+    10,
+    15,
+    20,
+    40,
+    80
+  ],
+  "common_scenarios": [
+    "s00",
+    "s02",
+    "s04",
+    "s05",
+    "s06",
+    "s07",
+    "s08",
+    "s09",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18"
+  ],
+  "candidate_policy": "closest-only",
+  "uses_rescue": false,
+  "ranking": [
+    {
+      "frequency": 80,
+      "score": 0.9287842101314162,
+      "rank": 1.0
+    },
+    {
+      "frequency": 20,
+      "score": 0.969431658011816,
+      "rank": 2.0
+    },
+    {
+      "frequency": 15,
+      "score": 0.9726680702961661,
+      "rank": 3.0
+    },
+    {
+      "frequency": 40,
+      "score": 0.9845799398927295,
+      "rank": 4.0
+    },
+    {
+      "frequency": 10,
+      "score": 0.9848164519394912,
+      "rank": 5.0
+    },
+    {
+      "frequency": 5,
+      "score": 1.177597949124163,
+      "rank": 6.0
+    }
+  ]
+}

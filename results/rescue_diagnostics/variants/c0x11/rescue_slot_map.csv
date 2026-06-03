@@ -1,0 +1,4 @@
+completion_variant,scenario,frequency_hz,raw_status,completion_status,successful_permutations,total_permutations,source_main4,source_main5,interpretation
+c0x11,s01,80,not completed in raw set,completed,24,24,c0x11,c0x11,boundary/search-sensitive slot recovered by completion run
+c0x11,s03,40,not completed in raw set,completed,24,24,c0x11,c0x11,boundary/search-sensitive slot recovered by completion run
+c0x11,s19,40,not completed in raw set,completed,24,24,c0x11,c0x11,boundary/search-sensitive slot recovered by completion run

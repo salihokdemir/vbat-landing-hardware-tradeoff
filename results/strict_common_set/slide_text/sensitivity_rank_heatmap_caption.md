@@ -1,0 +1,1 @@
+**Caption:** Rank sensitivity across weight, aggregation, and coupling choices. A rank of 1 is best. The leading position of 80 Hz is stable in the tested checks, while the middle-frequency ordering changes more easily.

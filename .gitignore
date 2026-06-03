@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+*.log
+*.tmp
+*.bak
+checkpoints/
+npz/
+main4_attempts.csv
+main5_ocp_attempts.csv
+figures_reproduced/

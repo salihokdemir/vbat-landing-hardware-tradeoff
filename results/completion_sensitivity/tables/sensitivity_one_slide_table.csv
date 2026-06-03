@@ -1,0 +1,15 @@
+check_family,check,ranking,top_frequency,bottom_frequency,note
+Weight method,scenario_median_k,80 Hz > 20 Hz > 15 Hz > 40 Hz > 10 Hz > 5 Hz,80 Hz,5 Hz,80 remains first
+Weight method,scenario_mean_k,80 Hz > 15 Hz > 20 Hz > 10 Hz > 40 Hz > 5 Hz,80 Hz,5 Hz,80 remains first
+Weight method,scenario_trimmed_k,80 Hz > 15 Hz > 20 Hz > 10 Hz > 40 Hz > 5 Hz,80 Hz,5 Hz,80 remains first
+Weight method,all_permutation_median_k,80 Hz > 20 Hz > 15 Hz > 40 Hz > 10 Hz > 5 Hz,80 Hz,5 Hz,80 remains first
+Weight method,all_permutation_mean_k,80 Hz > 15 Hz > 20 Hz > 10 Hz > 40 Hz > 5 Hz,80 Hz,5 Hz,80 remains first
+Weight method,equal_weights,80 Hz > 15 Hz > 20 Hz > 10 Hz > 40 Hz > 5 Hz,80 Hz,5 Hz,80 remains first
+Aggregation,geomean,80 Hz > 20 Hz > 15 Hz > 40 Hz > 10 Hz > 5 Hz,80 Hz,5 Hz,80 remains first
+Aggregation,median,80 Hz > 15 Hz > 10 Hz > 20 Hz > 40 Hz > 5 Hz,80 Hz,5 Hz,middle order changes
+Aggregation,arithmetic_mean,80 Hz > 20 Hz > 15 Hz > 10 Hz > 40 Hz > 5 Hz,80 Hz,5 Hz,80 remains first
+Aggregation,trimmed_log_geomean,80 Hz > 20 Hz > 40 Hz > 15 Hz > 10 Hz > 5 Hz,80 Hz,5 Hz,80 remains first
+Aggregation,avg_rank,80 Hz > 20 Hz > 15 Hz > 10 Hz > 40 Hz > 5 Hz,80 Hz,5 Hz,middle order changes
+Coupling,lambda_0,80 Hz > 20 Hz > 15 Hz > 40 Hz > 10 Hz > 5 Hz,80 Hz,5 Hz,stable
+Coupling,lambda_0.5,80 Hz > 20 Hz > 15 Hz > 40 Hz > 10 Hz > 5 Hz,80 Hz,5 Hz,stable
+Coupling,lambda_1,80 Hz > 20 Hz > 15 Hz > 40 Hz > 10 Hz > 5 Hz,80 Hz,5 Hz,stable

@@ -1,0 +1,1 @@
+**Caption:** Component-wise scenario-relative hardware ratios for the cleaned common-success comparison set. A value of **1.0** is the baseline. Values below 1.0 indicate lower-than-average demand for that metric; values above 1.0 indicate higher-than-average demand. The 80 Hz case is strong in Tdot, delta, and delta-dot, while 5 Hz is weak across most components.

@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Compute and Hardware Trade-off in Autonomous V-BAT Landing"
+authors:
+  - family-names: Okdemir
+    given-names: Salih
+version: 1.0-final
+date-released: 2026-06-03
+message: "If you use this repository, please cite the final release or commit hash."

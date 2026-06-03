@@ -1,0 +1,6 @@
+candidate_family,common_N,ranking,top_frequency_hz,bottom_frequency_hz,top_score
+balanced,17,80 Hz > 20 Hz > 15 Hz > 10 Hz > 40 Hz > 5 Hz,80,5,0.9289298794735864
+best_reclaim,17,80 Hz > 20 Hz > 15 Hz > 10 Hz > 40 Hz > 5 Hz,80,5,0.9268815175659926
+closest,17,80 Hz > 20 Hz > 15 Hz > 40 Hz > 10 Hz > 5 Hz,80,5,0.9287842101314162
+low_total,17,80 Hz > 20 Hz > 15 Hz > 40 Hz > 10 Hz > 5 Hz,80,5,0.9302522571041556
+sparse,17,80 Hz > 20 Hz > 15 Hz > 40 Hz > 10 Hz > 5 Hz,80,5,0.9310228707508863

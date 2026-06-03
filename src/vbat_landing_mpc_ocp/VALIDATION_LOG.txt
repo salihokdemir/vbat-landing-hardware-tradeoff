@@ -1,0 +1,3 @@
+compileall_ok
+local_import_static_check: OK
+casadi_available: NO in this execution environment; runtime solve/help smoke tests were not run here.

@@ -1,0 +1,5 @@
+metric,kappa,OCP median reduction,weight,short interpretation,metric_key,num_groups,num_successful_permutation_rows,definition
+Tw,0.8984374999999999,10.15625000000001,0.6462943449244819,Hardest-to-reduce in this comparison; receives the largest weight.,tw,102,2448,median over frequency-scenario median k
+Tdot,0.11669921874999999,88.330078125,0.08394801545486477,More reducible by OCP; lower final weight.,tdot_wps,102,2448,median over frequency-scenario median k
+delta,0.25,75.0,0.1798384264137689,Moderately reducible; mid-level weight.,delta_deg,102,2448,median over frequency-scenario median k
+delta_dot,0.125,87.5,0.08991921320688445,More reducible by OCP; lower final weight.,delta_dot_deg_s,102,2448,median over frequency-scenario median k

@@ -1,0 +1,5 @@
+mode,method,metric,metric_key,kappa,OCP_reduction_pct,num_k_values,num_groups,weight
+raw,scenario_median_k,Tw,tw,0.8984374999999999,10.15625000000001,2448,102,0.6462943449244819
+raw,scenario_median_k,Tdot,tdot,0.11669921874999999,88.330078125,2448,102,0.08394801545486477
+raw,scenario_median_k,delta,delta,0.25,75.0,2448,102,0.1798384264137689
+raw,scenario_median_k,delta_dot,delta_dot,0.125,87.5,2448,102,0.08991921320688445
